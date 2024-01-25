@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamchips
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java and Python
 
 
 <!---
